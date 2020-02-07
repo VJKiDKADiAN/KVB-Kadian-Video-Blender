@@ -1,9 +1,9 @@
-KVB Kadian Video Blender 
+KVB Kadian Video Blender is a VJ / Video Artist tool 
 written in max msp 5 
-media runs best when it is photo jpg (pjpg)
+media runs best when it is photo jpg (pjpg)/ DXV
 if you want to edit the maxpat file plz use max 5
-
 
 https://cycling74.com/downloads/older
 
-Works on Pre High Serria OSX || no restrictions on PC ( Needs to have quicktime installed )
+Works on Pre High Serria OSX ( Needs Java installed ) || no restrictions on PC ( Needs to have quicktime installed )
+If you want to pipe the video output to a another app ( Resolume // Mad Mapper ) Use NDI Scan Converter. 
