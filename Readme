@@ -12,7 +12,7 @@ https://ndi.tv/tools/
 the output window noramlly starts behing the filer 1 window.
 
 Artist Statement :
-Recorded video is inherently a time based media, this app seeks to subvert that notion by exploring diffrernt ways to play back viideo.
+Recorded video is inherently a time based media, this app seeks to subvert that notion by exploring diffrernt ways to play back video.
 The methods used inside this app center around playing videos back in a non linear fashion. By allowing you to jump to random frame and control playback speed, video can become non-linear.
 Due to this fact the video codecs used to achive this are not exactly standard ( dont try it with H.264 based media ) and all video files must be encoded with codecs that will store every frame .
 ( Photo Jpeg / DXV / HAP ) are the best codecs to use.  
